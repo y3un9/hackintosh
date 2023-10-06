@@ -7,6 +7,12 @@ https://dortania.github.io/OpenCore-Install-Guide/
 
 AMD -> Mac Pro 2019
 
+Type:         MacPro7,1
+Serial:       F5KF6DYMP7QM
+Board Serial: F5K105301QXK3F71H
+SmUUID:       0522BA6F-D2B4-45AD-9E78-456B910606A6
+Apple ROM:    B8098A511166
+
 |     Specs      |                          Value                          |
 |:--------------:|:-------------------------------------------------------:|
 |      CPU       |                    AMD Ryzen 5 3600                     |
