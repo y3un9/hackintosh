@@ -46,18 +46,6 @@ Apple ROM:    0010FACA2E5C
 
 Lenovo V15 G2 -> MacBook Pro 13 2020 (MacBookPro16,2)
 
-Type:         MacBookPro16,2
-Serial:       C02D70DRML7H
-Board Serial: C02033600GUP8PG8C
-SmUUID:       66A7E2BE-0620-4A8E-86EA-FC55D4214E31
-Apple ROM:    00F4B924DEA3
-
-Type:         MacBookPro14,2
-Serial:       C02WDZZPHV2N
-Board Serial: C02810405CDHRPC1F
-SmUUID:       012A6E73-82EF-469C-B6A5-513CE090F352
-Apple ROM:    34A39520113A
-
 Type:         MacBookPro16,3
 Serial:       C02CWFYSP3XY
 Board Serial: C02025207GU00001H
